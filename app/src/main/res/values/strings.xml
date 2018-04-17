@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="title_activity_list_contacts">ListContactsActivity</string>
+    <string name="title_activity_list_message">ListMessageActivity</string>
+</resources>
